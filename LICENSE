@@ -1,0 +1,59 @@
+LICENSE OF THE SOFTWARE
+
+Copyright (c) 2014, Anders "Ichimusai" Sikvall
+Latest revision 2014-10-05
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+1. The above copyright notice and this permission notice shall be
+   included in all copies or substantial portions of the Software. It
+   is not allowed to modify this license in any way. 
+
+2a The original header must accompany all software files and are not
+   removed in redistribution. It is allowed to add to the headers to
+   describe modifications of the software and who has made these
+   modifications. I claim no right to your modifications, they stand
+   on their own merits.
+
+2b The license shown when the software is invoked with the "--license"
+   option is not removed or modified but must remain the same. You may
+   add your name to the bottom of the credit part if you have
+   contributed or modified the software.
+
+3. You are allowed to add to the header files and the license
+   information described in (2b) with changes and your own name, but
+   only as an addition at the bottom of the file.
+
+4. Distributing the software must be done in a way so that the
+   software archive is intact and no necessary files (except external
+   libraries such as MySQL) is always included. The software should be
+   compilable after a reasonable set-up of the tool chain and
+   compiler.
+
+5. If you are making modifications to this software i humbly suggest
+   you send a copy of your modifications to me on ichi@ichimusai.org
+   and I may include your modifications (if you allow it) as well as
+   give credit to you (if you want) in the next release of the
+   software. This is only a suggestion to keep the code base in a
+   single location but it is in no way a restriction to your right to
+   modify and redistribute this software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Credits for this software
+
+All original inventing, coding, documentation, and testing of the
+original package and inventing the software in the first place: Anders
+"Ichimusai" Sikvall <ichi@ichimusai.org> http://ichimusai.org/
